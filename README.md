@@ -30,9 +30,11 @@
 ![PhonePe Design](https://github.com/Ariharanjaiganesh/Youtube-Data-Harvesting-and-Warehousing/blob/main/work%20flow%20image.png)
 
 ## Dashboard Preview
-<p align="center">
-  <img src="![Untitled video - Made with Clipchamp](https://github.com/Ariharanjaiganesh/Youtube-Data-Harvesting-and-Warehousing/assets/137753337/3b6f46cb-fcf8-420a-a0f6-75a53e691106)" alt="Description of the image">
-</p>
+<video width="320" height="240" controls>
+    <source src="C:\Users\AR KING\Downloads\Untitled video - Made with Clipchamp.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
 
 ## Features
 
