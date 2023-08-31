@@ -29,6 +29,11 @@
 ## General workflow of this Project:
 ![PhonePe Design](https://github.com/Ariharanjaiganesh/Youtube-Data-Harvesting-and-Warehousing/blob/main/work%20flow%20image.png)
 
+## Dashboard Preview
+<p align="center">
+  <img src="![Untitled video - Made with Clipchamp](https://github.com/Ariharanjaiganesh/Youtube-Data-Harvesting-and-Warehousing/assets/137753337/3b6f46cb-fcf8-420a-a0f6-75a53e691106)" alt="Description of the image">
+</p>
+
 ## Features
 
 - Harvests data from YouTube videos, channels, and comments.
