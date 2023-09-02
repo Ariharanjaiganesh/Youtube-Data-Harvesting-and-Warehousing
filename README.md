@@ -29,11 +29,10 @@
 ## General workflow of this Project:
 ![PhonePe Design](https://github.com/Ariharanjaiganesh/Youtube-Data-Harvesting-and-Warehousing/blob/main/work%20flow%20image.png)
 
-## Dashboard Preview
-<video width="320" height="240" controls>
-    <source src="C:\Users\AR KING\Downloads\Untitled video - Made with Clipchamp.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+## Demo Video of the Project 
+
+(https://drive.google.com/file/d/1_inmZT_kYc70K1bNIREHZ35BpKkaaYKN/view?usp=sharing)
+
 
 
 ## Features
